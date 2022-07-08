@@ -2,7 +2,6 @@ import java.util.*;
 public class TestAccess {
 	public static void main(String[] args) {
 		List<Integer> l1 = new ArrayList<>();
-		List<String> i2=Arrays.asList("hi","she","it");
 		l1.add(8225);
 		l1.add(8226);
 		l1.add(8227);
